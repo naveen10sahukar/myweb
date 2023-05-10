@@ -27,7 +27,7 @@ pipeline{
                     
                     sh "ssh ec2-user@3.88.192.45 /home/ec2-user/tomcat/bin/startup.sh"
                 
-                """
+                
             }
             
             }
